@@ -1,3 +1,8 @@
+body {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+
 .cabecalho{
     background-color: #000000 ;
     color: rgb(255, 255, 255);
@@ -36,5 +41,13 @@
     padding: 24px 0;
 }
 
-.escola-conteudo{ width: 35% }
+.escola-conteudo{ width: 35%}
 
+
+.Produto-imagem {
+    width: 150px;
+}
+
+.Produto-icone{
+    width: 80px;
+}
